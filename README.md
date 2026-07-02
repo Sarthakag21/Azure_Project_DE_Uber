@@ -85,7 +85,7 @@ Both data sources are ingested into Azure and processed using a scalable data pi
 
 ## 🏗️ Architecture Diagram
 
-<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/ea117452-e9a7-42e2-82f8-4a11e8a7319c" />
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/6850f903-99ba-42d2-8b39-5fe8ce4bc571" />
 
 ---
 
@@ -123,29 +123,29 @@ Analytics-ready tables are created using **Star Schema Modeling**.
 ## 🚖 Ride Booking Application (Home/Confirmation)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77243a7a-91de-4d00-9cd7-50d9abb9e3a7" width="48%" />
-  <img src="https://github.com/user-attachments/assets/9912fe4c-679b-4daf-b0c7-29bdd3553992" width="48%" />
+  <img src="https://github.com/user-attachments/assets/693db930-8a42-4803-9594-28f25e205ec8" width="48%" />
+  <img src="https://github.com/user-attachments/assets/7702d995-a3d0-4416-a777-61629d16951d" width="48%" />
 </p>
 
 ## 🔄 Azure Data Factory Pipeline
 
-<img width="1917" height="912" alt="ADF pipelines" src="https://github.com/user-attachments/assets/f80581f7-40d2-468b-852e-918ee4b7c387" />
+<img width="1917" height="912" alt="ADF pipelines" src="https://github.com/user-attachments/assets/2bd03d11-4160-4377-9681-00d18f65a024" />
 
 ## 📡 Event Hub Monitoring
 
-<img width="1907" height="911" alt="EventHub Stream" src="https://github.com/user-attachments/assets/79a526dc-e892-482f-9ef0-49a3a143a437" />
+<img width="1907" height="911" alt="EventHub Stream" src="https://github.com/user-attachments/assets/a812947c-751a-455c-9296-c3ae91ad6c7c" />
 
 ## ⚡ Databricks Pipeline
 
-<img width="1612" height="841" alt="pipeline" src="https://github.com/user-attachments/assets/ea74377a-6f76-472a-85e8-beb93c929d3a" />
+<img width="1612" height="841" alt="pipeline" src="https://github.com/user-attachments/assets/ccfb6641-7800-4b8e-8029-e0261ca58d05" />
 
 ## 🥇 Gold Layer
 
-<img width="1536" height="1024" alt="Gold Layer" src="https://github.com/user-attachments/assets/ed7bd940-15d7-4985-989e-9fb2820a606f" />
+<img width="1536" height="1024" alt="Gold Layer" src="https://github.com/user-attachments/assets/74be566f-04de-4a67-889e-6feb963b9217" />
 
 ## ⭐ Fact & Dimension Tables
 
-<img width="244" height="277" alt="Fact   Dim table" src="https://github.com/user-attachments/assets/c506b389-cecd-4778-b885-c56d25a997ba" />
+<img width="244" height="277" alt="Fact   Dim table" src="https://github.com/user-attachments/assets/8814c43d-36c1-4854-97c9-e7be298dcb82" />
 
 ---
 

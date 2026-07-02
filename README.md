@@ -295,21 +295,35 @@ This is used because historical tracking is not required for:
 ```bash
 Uber_Project/
 │
-├── app/
-│   ├── booking_app.py
-│   ├── api.py
-│
 ├── adf/
-│   └── pipelines/
+│   └── files_array.json
+│
+├── bulk-data/
 │
 ├── databricks/
-│   ├── ingest.py
-│   ├── silver.py
-│   ├── model.py
-│   ├── silver_obt.sql
+|   ├── uber_rides_ingest/
+|   |   └── transformation
+|   |       ├── ingest.py
+|   |       ├── model.py
+|   |       ├── silver.py
+|   |       └── silver_obt.sql
+│   ├── bronze_adls.py
+│   └── silver_obt.py
 │
-├── datasets/
+├── web-app/
+|   ├── pages/
+|   |   ├── confirmation.html
+|   |   └── home.html
+|   ├── api.py
+|   ├── connection.py
+|   └── data.py 
 │
+├── .gitignore
+|
+├── .python-version
+|
+├── requirements.txt
+|   
 └── README.md
 ```
 
